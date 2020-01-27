@@ -10,19 +10,19 @@ Created on Sat Sep 21 19:53:02 2019
 import pandas as pd
 import numpy as np
 
-pathto_raw_data = '/run/media/research/Kaan/memoryerrortransferringfile/WRDS_Data_Preprocessing/data/WRDSdata/092019/13092019/'
+pathto_raw_data = '...'
 
 #----------------------------------------------------------------------------------------------------------------------------------
 
-pathto_1_200 = '/run/media/research/Kaan/memoryerrortransferringfile/WRDS_Data_Preprocessing/data/Anomalies100-200/'
-pathto_200_400 = '/run/media/research/Kaan/memoryerrortransferringfile/WRDS_Data_Preprocessing/data/Anomalies200-400/'
-pathto_400_500 = '/run/media/research/Kaan/memoryerrortransferringfile/WRDS_Data_Preprocessing/data/Anomalies400-500/'
-pathto_500_600 = '/run/media/research/Kaan/memoryerrortransferringfile/WRDS_Data_Preprocessing/data/Anomalies500-600/'
+pathto_1_200 = '...'
+pathto_200_400 = '...'
+pathto_400_500 = '...'
+pathto_500_600 = '...'
 
 #----------------------------------------------------------------------------------------------------------------------------------
 
-pathtoaddvars_1_200 = '/run/media/research/Kaan/memoryerrortransferringfile/WRDS_Data_Preprocessing/data/AdditionalVariables1-200/'
-pathtoaddvars_200_400 = '/run/media/research/Kaan/memoryerrortransferringfile/WRDS_Data_Preprocessing/data/AdditionalVariables200-400/'
+pathtoaddvars_1_200 = '...'
+pathtoaddvars_200_400 = '...'
 
 #----------------------------------------------------------------------------------------------------------------------------------
 
